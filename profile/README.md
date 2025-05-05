@@ -5,4 +5,5 @@ It enables creators to stream both horizontal and vertical video formats simulta
 Twitch/YouTube (horizontal) and TikTok/Instagram (vertical). It’s also ideal for websites that display horizontal video player 
 on desktop and vertical player on mobile.
 
-Read more at [dualhd.org](dualhd.org).
+- Read more at [dualhd.org](https://dualhd.org).
+- See Streamrun instructions on [Horizontal & Vertical streaming](https://streamrun.com/docs/horizontal-and-vertical-video).
